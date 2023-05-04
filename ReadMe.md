@@ -108,7 +108,7 @@ The ? Operator
 
 - Borrowing
 
-following: https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/
+
 
 #Tools needed
 
@@ -116,7 +116,7 @@ following: https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/
    rustup target add wasm32-unknown-unknown
 2. Trunk: WASM web application bundler for Rust
    cargo install trunk
-   trunk errors: https://stackoverflow.com/questions/72146492/unable-to-execute-trunk-serve
+
 3. cargo-watch:
    cargo install cargo-watch
    cargo watch -x run
